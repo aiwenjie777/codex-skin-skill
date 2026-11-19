@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <a href="https://agentskins.app/skins/chatgpt/astronaut"><img src="https://agentskins.app/badge/chatgpt/astronaut.svg" alt="Featured on Agent Skins"></a>
+</p>
+
+<p align="center">
   <strong>Give Codex Desktop a skin that is unmistakably yours.</strong><br>
   Turn one image into a home banner and task background while keeping the native sidebar, project picker, and composer.
 </p>

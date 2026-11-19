@@ -7,6 +7,10 @@
 </p>
 
 <p align="center">
+  <a href="https://agentskins.app/skins/chatgpt/astronaut"><img src="https://agentskins.app/badge/chatgpt/astronaut.svg" alt="Featured on Agent Skins"></a>
+</p>
+
+<p align="center">
   <strong>给 Codex Desktop 换上一张真正属于你的皮肤。</strong><br>
   用一张图片生成主页横幅与任务背景，同时保留原生侧栏、项目选择和输入框。
 </p>
